@@ -26,6 +26,7 @@ flowchart TD
     F --> G[Log response]
     G --> H[End]
 ```
+---
 Create a .env file in the project root and add:
 
 PIPEDRIVE_API_KEY = 1dcb2fc294afd68e60cd36d4a566b344db25c108  
