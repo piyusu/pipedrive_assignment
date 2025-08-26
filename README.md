@@ -26,25 +26,4 @@ flowchart TD
     F --> G[Log response]
     G --> H[End]
 
-⚙ Setup Instructions
-
-Clone the repository
-
-git clone https://github.com/your-username/pipedrive-updater.git
-cd pipedrive-updater
-
-
-Install dependencies
-
-npm install
-
-
-Create a .env file
-
-PIPEDRIVE_API_KEY = 1dcb2fc294afd68e60cd36d4a566b344db25c108  
-PIPEDRIVE_COMPANY_DOMAIN = yourcompany
-
-
-Run the script
-
-ts-node index.ts
+ 
