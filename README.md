@@ -26,7 +26,7 @@ flowchart TD
     F --> G[Log response]
     G --> H[End]
 
-⚙️ Setup Instructions
+⚙ Setup Instructions
 
 Clone the repository
 
